@@ -7,7 +7,7 @@ The amount of environmental data collected daily is immense and can be intimidat
 ## Features
 These projects feature numerous statistcal avenues such as:
 
-R
+**R
 
 Python
 
@@ -17,11 +17,12 @@ PowerBI
 
 Excel
 
-Powerpoint
+Powerpoint**
+
 
 In addition, these project have diversity in statistical methods which include:
 
-Exploratory Data Analysis
+**Exploratory Data Analysis
 
 Predictive Analysis
 
@@ -37,7 +38,7 @@ Regression Analysis
 
 Visualization Methods
 
-Scientific Writing
+Scientific Writing**
 
 ## Credits
 The author would like to thank Bellevue University in creating an online learning environment for advanced degrees. In addition, the Disney Aspire Program for allowing the author to further her education and reach new heights. Lastly, the author would like to thank Coastal Carolina University and its staff for inspiring an ambitious answer seeker with state of the art facilities and experiences she will hold dear for the rest of her life.
