@@ -5,7 +5,7 @@ Proposal poster and paper outlining how data science can make a significant impa
 The continuing rise of global temperature over centuries has impacted both biotic and abiotic processes. The most significant increase in temperature occurred between 1975 and now, rising approximately 0.15-0.20˚C per decade. At this rate of increase, earthly processes cannot adapt and experience stress. When abiotic stress is too high, pieces of ice shelves break into the ocean, geological functions such as plate tectonic activity increase and the oceans chemical properties are altered. In addition, animals’ ability to reproduce declines as stress levels on their body.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/54485579/155994577-1a173884-2ce8-474a-a594-90828cf323e8.png)
+![image](https://user-images.githubusercontent.com/54485579/155994857-45fe7350-2d76-43fa-aad1-d5aa7e7df453.png)
 
 ## Features
 This project features both a formatted poster and a scientific paper outlining how data science could be used to help the climate change issue.
