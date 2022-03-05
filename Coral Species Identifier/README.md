@@ -8,9 +8,7 @@ A series of convolutional neural networks with the aim to import images of coral
 Numerous coral reefs around the world are struggling in the midst of climate change and ocean acidification. Research projects that are targeted at coral reefs often identify the species of corals within their research location. With the largest reef being around 133,000 square miles, this process can be lengthy. To reduce the man power and time needed to identify these species, this program is aimed to quicken the process. If research is able to be completed faster, aid can be administered faster and could be the difference between a coral reef living and dying.
 
 ## Screenshots
-
-![image](https://user-images.githubusercontent.com/54485579/156858448-23fc8939-831b-42ce-bba3-b18528cc3998.png)
-
+![image](https://user-images.githubusercontent.com/54485579/156859438-3639840b-483a-4d65-ad86-876797f94f4a.png)
 ![image](https://user-images.githubusercontent.com/54485579/156858233-c0929977-d312-43b7-b7e4-246f89f49725.png)
 ![image](https://user-images.githubusercontent.com/54485579/156858242-1315627b-0497-4315-9082-184dc3f5d023.png)
 
